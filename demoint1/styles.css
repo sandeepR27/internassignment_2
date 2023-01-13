@@ -1,0 +1,39 @@
+h3{
+   
+    font-style: italic;
+    font-size: xx-large;
+    text-shadow:3px 2px 3px rgb(270,252,260); ;
+    color: black;
+    text-transform: uppercase;
+}
+
+body {
+    background-image: url(https://c0.wallpaperflare.com/preview/807/1021/167/chart-graph-business-finance.jpg);
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+  }
+
+input{
+    text-transform: uppercase;
+    text-align: center;
+    background: rgb(251,252,251);
+    width:40 px;
+    padding:10px;
+    overflow:hidden;
+    border-radius:20%;
+    opacity: 0.5;
+
+}
+
+label{
+    text-transform: uppercase;
+    text-align: center;
+    background: rgb(251,252,251);
+    width:40 px;
+    padding:10px;
+    overflow:hidden;
+    border-radius:20%;
+    opacity: 0.5;
+}
+
+
